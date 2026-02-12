@@ -17,9 +17,7 @@ No GPU required — runs efficiently on Intel i5 and similar systems.
 Install in development mode (recommended):
 
 ```bash
-git clone https://github.com/Parhamfakhar1/lipreader.git
-cd lipreader
-pip install -e .
+pip install lipreader
 ```
 
 > Requires: Python 3.7+, OpenCV, NumPy
