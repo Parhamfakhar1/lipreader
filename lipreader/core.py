@@ -70,7 +70,7 @@ class LipReader:
         stats = self.process_video(video_path)
         stats["video"] = os.path.basename(video_path)
         data = self.load_data()
-        if word not in 
+        if word not in data:
             data[word] = {"samples": [stats]}
         else:
             data[word]["samples"].append(stats)

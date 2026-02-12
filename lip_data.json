@@ -1,0 +1,34 @@
+{
+  "شروع": {
+    "samples": [
+      {
+        "avg_ratio": 1.28,
+        "ratio_std": 0.25,
+        "min_ratio": 0.78,
+        "max_ratio": 1.88
+      },
+      {
+        "avg_ratio": 1.45,
+        "ratio_std": 0.3,
+        "min_ratio": 1.0,
+        "max_ratio": 2.0
+      },
+      {
+        "avg_ratio": 1.2770989506258523,
+        "ratio_std": 0.37471367418237983,
+        "min_ratio": 0.7771639028044863,
+        "max_ratio": 1.8782608613988658
+      }
+    ]
+  },
+  "توقف": {
+    "samples": [
+      {
+        "avg_ratio": 0.9,
+        "ratio_std": 0.05,
+        "min_ratio": 0.85,
+        "max_ratio": 0.95
+      }
+    ]
+  }
+}

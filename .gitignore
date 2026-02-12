@@ -1,0 +1,5 @@
+lipreader.egg-info
+lipreader.egg-info/*
+
+dist
+dist/*
